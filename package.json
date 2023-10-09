@@ -1,0 +1,28 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Sweta Gabhane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/S-Gabhane12/swetaGabhane.git"
+  },
+  "bugs": {
+    "url": "https://github.com/S-Gabhane12/swetaGabhane/issues"
+  },
+  "homepage": "https://github.com/S-Gabhane12/swetaGabhane#readme"
+}
